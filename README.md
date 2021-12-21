@@ -1,9 +1,34 @@
 # awesome-imx
 
-## Tools
-- [snoopy](snoopy.tools)
-- [immutable scan](https://immutascan.io/)
+## Analytics
+https://www.snoopy.tools/
+https://tokentrove.com/rankings
+https://imxrarity.io/collections
 
-## Marketplace
-- [token trove](https://tokentrove.com/)
-- [immutable x](https://market.x.immutable.com/)
+## Developer Tooling
+https://github.com/dimfred/imxpy - imx for python
+
+## Immutable X Blockchain explorer alpha
+https://immutascan.io/
+https://www.immutable.thecodes.dev/
+
+## Marketplaces
+https://mintsmeet.com/
+https://tokentrove.com/
+https://imxflow.com/ 
+https://www.aethermarket.io/
+
+## Community documentation
+https://github.com/8bNFT/incomplete-guide-to-imx
+https://github.com/njelich/imx-minter - Fullstack implementation of the L1M2 (payment on L1, minting on L2) minting flow — 0xNoah with ❤️ 
+
+## Launches on Immutable X
+https://imxcalendar.xyz/
+https://imxlauncher.com/
+https://affinitylaunchpad.io/
+
+## Others
+https://stationone.io/
+https://imxtools.io/
+https://imxfaucet.xyz/
+https://imxverifytools.com/ 
