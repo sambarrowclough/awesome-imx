@@ -1,4 +1,5 @@
 # awesome-imx
+resources from: https://discord.com/channels/765480457256042496/904688103908855838/904689074651144193
 
 ## Analytics
 https://www.snoopy.tools/
